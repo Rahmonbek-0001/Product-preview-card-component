@@ -1,0 +1,23 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.donotShowInfoMsg": false,
+    "liveServer.settings.fullReload": false,
+    "liveServer.settings.NoBrowser": false,
+    "liveServer.settings.useLocalIp": false,
+    "liveServer.settings.useWebExt": false,
+    "liveServer.settings.showOnStatusbar": true,
+    "liveServer.settings.donotVerifyTags": false,
+    "liveServer.settings.port": 5503,
+    "livePreview.defaultPreviewPath": "/index.html",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.ignoreFiles": [
+
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts",
+    ],
+    "liveServer.settings.root": "/",
+    "scss.lint.unknownVendorSpecificProperties": "ignore"
+}

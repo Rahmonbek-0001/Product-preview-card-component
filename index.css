@@ -1,0 +1,84 @@
+  @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&display=swap');
+
+  * {
+      margin: 0;
+      font-family: 'Fraunces', serif;
+  }
+
+  body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      line-height: 3px;
+  }
+
+  .shox-teg {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 1100px;
+      height: 700px;
+      border-radius: 15px;
+      box-shadow: 5px 6px 43px -1px rgba(0, 0, 0, 0.2);
+  }
+
+  .box1 img {
+      width: 300px;
+      height: 400px;
+      border-radius: 15px 0 0 15px;
+  }
+
+  .box2 {
+      padding: 30px;
+      border-radius: 0 15px 15px 0;
+      line-height: 1;
+      text-align: left;
+      width: 285px;
+      box-shadow: 5px 6px 43px -1px rgba(0, 0, 0, 0.2);
+  }
+
+  .box-head {
+      padding: 0 0 25px 0;
+  }
+
+  b {
+      font-size: 28px;
+      font-family: 'Fraunces', serif;
+  }
+
+  p {
+      padding: 25px 0 25px 0;
+      font-size: 14px;
+  }
+  
+  .narx {
+      display: flex;
+  }
+  
+  .dollr {
+      color: hsl(158, 36%, 37%);
+      font-size: 32px;
+  }
+
+  .dollr2 {
+      padding:10px 0 10px 20px;
+      text-decoration: line-through;
+  }
+
+
+  .buton {
+      margin: 20px 0 0 0;
+      padding-top: 3px;
+      width: 270px;
+      height: 45px;
+      border: hsl(158, 36%, 37%);
+      background-color: hsl(158, 36%, 37%);
+      border-radius: 10px;
+      text-decoration-color: white;
+  }
+
+  .buton a {
+      text-decoration: none;
+      color: white;
+  }
